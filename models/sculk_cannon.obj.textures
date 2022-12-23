@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "m_0": "skulk_cannon_base"
+      },
+      "name": "default"
+    }
+  }
+}

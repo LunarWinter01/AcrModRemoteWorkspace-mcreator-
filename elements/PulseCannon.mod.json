@@ -2,9 +2,9 @@
   "_fv": 34,
   "_type": "rangeditem",
   "definition": {
-    "renderType": 0,
+    "renderType": 2,
     "texture": "skulkcannonitemtexture",
-    "customModelName": "Normal",
+    "customModelName": "sculk_cannon:default",
     "name": "Sculk Cannon",
     "specialInfo": [],
     "creativeTab": {
