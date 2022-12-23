@@ -1,0 +1,41 @@
+{
+  "mod_elements": [
+    {
+      "name": "PulseCannon",
+      "type": "rangeditem",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pulse_cannon"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.arc_mod.pulse_cannon": "Skulk Cannon"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "arc_mod",
+    "modName": "Arc Mod",
+    "version": "1.0.0",
+    "author": "jacob, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.mcreator.arcmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

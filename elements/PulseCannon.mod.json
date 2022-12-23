@@ -1,0 +1,40 @@
+{
+  "_fv": 34,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "skulkcannonitemtexture",
+    "customModelName": "Normal",
+    "name": "Sculk Cannon",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "Blocks.SCULK"
+    },
+    "shootConstantly": true,
+    "usageCount": 2000,
+    "actionSound": {
+      "value": "block.sculk_catalyst.bloom"
+    },
+    "hasGlow": false,
+    "animation": "none",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 3.0,
+    "bulletPower": 3.0,
+    "bulletDamage": 7.0,
+    "bulletKnockback": 5,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "Blocks.SCULK"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsBlock": {
+      "name": "PulseCannonProjectileHitsBlock"
+    }
+  }
+}
